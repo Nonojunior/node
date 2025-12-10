@@ -19,7 +19,7 @@ properties:
       settings:
         id: Microsoft.VisualStudio.2022.Community
         source: winget
-        useLatest: true
+        useLatest: false
     - resource: Microsoft.VisualStudio.DSC/VSComponents
       id: vsComponents
       dependsOn:
